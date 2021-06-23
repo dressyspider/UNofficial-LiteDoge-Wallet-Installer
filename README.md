@@ -11,7 +11,8 @@ The following functions are performed during install.
  - Download the the latest LiteDoge snapshot. As of right now, that is v2-26-21.
  - Unzip the wallet file.
  - Unzip the snapshot files.
- - Create a desktop shortcut to launch the LiteDoge wallet from the desktop folder structure. 
+ - Create a desktop shortcut to launch the LiteDoge wallet from the chosen location. 
+ - Create a desktop shortcut to launch the LiteDoge wallet backup folder from the chosen location. 
  - Launch the LiteDoge wallet.
  - Create an initial back of the LiteDoge wallet file. (wallet.dat only) 
 
