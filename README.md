@@ -33,4 +33,4 @@ Contact Me
 Coming Soon...
 
 
-[Latest Installer]: https://github.com/dressyspider/Dressys-UNofficial-LiteDoge-Wallet-Installer/blob/main/Dressys%20UNofficial%20LiteDoge%20Wallet%20Installer.EXE
+[Latest Installer]: https://github.com/dressyspider/UNofficial-LiteDoge-Wallet-Installer/releases/download/1.0/DressySpiders.UNofficial.LiteDoge.Wallet.Installer.EXE
