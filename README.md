@@ -27,6 +27,7 @@ Download the latest executable and launch to begin installation.
 Quick Links
 -----------
 - [Latest Installer]
+- [Releases]
 
 Contact Me
 -----------
@@ -34,3 +35,4 @@ Coming Soon...
 
 
 [Latest Installer]: https://github.com/dressyspider/UNofficial-LiteDoge-Wallet-Installer/releases/download/1.0/DressySpiders.UNofficial.LiteDoge.Wallet.Installer.EXE
+[Releases]: https://github.com/dressyspider/UNofficial-LiteDoge-Wallet-Installer/releases
